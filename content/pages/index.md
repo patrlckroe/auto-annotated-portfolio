@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/Wow-gif.gif.webp
+  url: /images/AdobeStock_477305392-2.gif
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
