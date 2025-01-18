@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/AdobeStock_477305392.webp
   backgroundSize: auto
   backgroundPosition: center
   backgroundRepeat: no-repeat
